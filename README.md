@@ -2,7 +2,6 @@
 
 ---
 
-<img src="https://www.0voice.com/uiwebsite/img/0voice/list.png">
 
 <br/>
 <br/>
